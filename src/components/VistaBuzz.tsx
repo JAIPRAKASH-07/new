@@ -7,14 +7,14 @@ import entertainmentLogo from '@/assets/vistabuzz-entertainment.png';
 const channels = [
   {
     name: 'VistaBuzz Academy',
-    tagline: 'Technology, Facts & Developer Hub',
+    tagline: 'Education, Technology & Developer Academy',
     subtitle: 'Learn • Build • Innovate',
-    description: 'A learning-focused technology channel designed to simplify complex tech concepts and empower learners. From beginner-friendly coding tutorials to advanced development insights and AI tool reviews.',
+    description: 'The academy simplifies complex tech concepts through structured learning paths, helping students and professionals grow from beginners to skilled developers with real-world readiness.',
     features: [
-      'Programming tutorials (beginner to advanced)',
-      'Web & app development guides',
-      'AI tools, SaaS platforms, and software reviews',
-      'Career guidance for developers',
+      "Structured programming courses (beginner to advanced)",
+      "Web & app development training with hands-on projects",
+      "AI tools, SaaS platforms, and modern software training",
+       "Career guidance, roadmaps, and skill development for developers",
     ],
     logo: techfactsLogo,
     youtube: 'https://www.youtube.com/@vistabuzzacademy',
