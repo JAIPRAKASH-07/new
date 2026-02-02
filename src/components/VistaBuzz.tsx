@@ -6,7 +6,7 @@ import entertainmentLogo from '@/assets/vistabuzz-entertainment.png';
 
 const channels = [
   {
-    name: 'VistaBuzz TechFacts',
+    name: 'VistaBuzz Academy',
     tagline: 'Technology, Facts & Developer Hub',
     subtitle: 'Learn • Build • Innovate',
     description: 'A learning-focused technology channel designed to simplify complex tech concepts and empower learners. From beginner-friendly coding tutorials to advanced development insights and AI tool reviews.',
@@ -17,11 +17,11 @@ const channels = [
       'Career guidance for developers',
     ],
     logo: techfactsLogo,
-    youtube: 'https://www.youtube.com/@vistabuzztechfacts',
+    youtube: 'https://www.youtube.com/@vistabuzzacademy',
     color: 'primary',
   },
   {
-    name: 'VistaBuzz Entertainment',
+    name: 'VistaBuzz Shorts',
     tagline: 'Comedy • Motivation • Fun',
     subtitle: 'Making People Smile Daily',
     description: 'Delivering quick laughter and light-hearted moments through relatable comedy, short skits, and humorous observations inspired by everyday life.',
@@ -32,7 +32,7 @@ const channels = [
       'Trending meme-based content',
     ],
     logo: entertainmentLogo,
-    youtube: 'https://www.youtube.com/@vistabuzzentertainment',
+    youtube: 'https://www.youtube.com/@vistabuzzshorts',
     color: 'accent',
   },
 ];
